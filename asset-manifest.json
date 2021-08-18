@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bon-appetit/static/css/main.9b7adcf4.chunk.css",
+    "main.js": "/bon-appetit/static/js/main.297ec94c.chunk.js",
+    "main.js.map": "/bon-appetit/static/js/main.297ec94c.chunk.js.map",
+    "runtime-main.js": "/bon-appetit/static/js/runtime-main.6581dcef.js",
+    "runtime-main.js.map": "/bon-appetit/static/js/runtime-main.6581dcef.js.map",
+    "static/js/2.d3b694f7.chunk.js": "/bon-appetit/static/js/2.d3b694f7.chunk.js",
+    "static/js/2.d3b694f7.chunk.js.map": "/bon-appetit/static/js/2.d3b694f7.chunk.js.map",
+    "static/js/3.58eafd5d.chunk.js": "/bon-appetit/static/js/3.58eafd5d.chunk.js",
+    "static/js/3.58eafd5d.chunk.js.map": "/bon-appetit/static/js/3.58eafd5d.chunk.js.map",
+    "index.html": "/bon-appetit/index.html",
+    "static/css/main.9b7adcf4.chunk.css.map": "/bon-appetit/static/css/main.9b7adcf4.chunk.css.map",
+    "static/js/2.d3b694f7.chunk.js.LICENSE.txt": "/bon-appetit/static/js/2.d3b694f7.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/bon-appetit/static/media/background.7d915b03.jpg",
+    "static/media/category.css": "/bon-appetit/static/media/brooke-lark-08bOYnH_r_E-unsplash.095b14cf.jpg",
+    "static/media/cat.bc55b578.jpg": "/bon-appetit/static/media/cat.bc55b578.jpg",
+    "static/media/cat1.732572b4.jpg": "/bon-appetit/static/media/cat1.732572b4.jpg",
+    "static/media/ing.e67d2554.jpg": "/bon-appetit/static/media/ing.e67d2554.jpg",
+    "static/media/logo.c180bcbb.png": "/bon-appetit/static/media/logo.c180bcbb.png",
+    "static/media/logo_wine.85b01dd1.png": "/bon-appetit/static/media/logo_wine.85b01dd1.png",
+    "static/media/wine.c41bd1c2.jpg": "/bon-appetit/static/media/wine.c41bd1c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6581dcef.js",
+    "static/js/2.d3b694f7.chunk.js",
+    "static/css/main.9b7adcf4.chunk.css",
+    "static/js/main.297ec94c.chunk.js"
+  ]
+}
