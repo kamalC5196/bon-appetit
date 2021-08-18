@@ -56,7 +56,7 @@ function WinePairings(props){
                         <Form inline className="srch">
                             <FormGroup>
                             {' '}
-                            <FormControl type="text" className="inp" placeholder="Wine search.." onChange={e=>{setCat(e.target.value)}} />
+                            <FormControl type="text" className="inp" placeholder="search.." onChange={e=>{setCat(e.target.value)}} />
                             </FormGroup>
                             {' '}
                             <Button className="btn" onClick={e=>{e.preventDefault(); searchWine();}}>Search for Food</Button>
